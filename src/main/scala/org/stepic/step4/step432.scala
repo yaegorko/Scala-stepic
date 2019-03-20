@@ -10,7 +10,6 @@ object step432 extends App {
     split2.head
   }
 
-  println(require(middle("Scala") == 'a'))
-  require(middle(Seq(1, 7, 5, 9)) == 5)
+
 
 }
